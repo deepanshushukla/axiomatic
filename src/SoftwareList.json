@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Notion",
+    "value": "Notion",
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png"
+  },
+  {
+    "name": "Slack",
+    "value": "Slack",
+    "logo": "https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png"
+  },
+  {
+    "name": "Zoom",
+    "value": "Zoom",
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/zoom-2752011-2284828.png"
+  },
+  {
+    "name": "Teams",
+    "value": "Teams",
+    "logo": "https://cdn.icon-icons.com/icons2/3053/PNG/128/microsoft_teams_alt_macos_bigsur_icon_189961.png"
+  },
+  {
+    "name": "Google",
+    "value": "Google",
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/google-1772223-1507807.png"
+  }
+]
